@@ -49,13 +49,14 @@ Insights derived from cleaned dataset using Power Query & visual dashboards
 
 
 Files in this Repository:-
-| File                       | Description                                       |
-| -------------------------- | ------------------------------------------------- |
-| `Dashboard.xlsx`           | Interactive dashboard with slicers, KPIs & charts |
-| `Cleaned_Data.xlsx`        | Processed dataset (anonymized)                    |
-| `Final_Report.pdf`         | Official college project report                   |
-| `Presentation.pptx`        | Presentation slides                               |
-| `Dashboard_Screenshot.jpg` | Dashboard preview image                           |
+| File                              | Description                                                                       |
+| ----------------------------------|-----------------------------------------------------------------------------------|
+| `UPI_Dashboard_Final-report.xlsx` | Interactive dashboard with slicers, KPIs & charts                                 |
+| `Cleaned_Data.xlsx`               | Processed dataset (anonymized)                                                    |
+| `Final_Report.pdf`                | Official college project report                                                   |
+| `Presentation.pptx`               | Presentation slides                                                               |
+| `Dashboard_Screenshot.jpg`        | Dashboard preview image                                                           |
+| `presentation_photo.jpg`          | A glimpse of presenting the dashboard live during project presentation            |
 
 
 Project Workflow:-
